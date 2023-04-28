@@ -4,7 +4,7 @@ A server in which you can manage games, also it generates a token that is then u
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/tu-usuario/it-crowd-server.git`.
+1. Clone the repository: `git clone https://github.com/mnduarte/it-crowd-server.git`.
 2. Install the dependencies: `npm install`.
 3. Create a `.env.local` file with the project configuration information. You can follow the example of the `.env.example` file.
 
